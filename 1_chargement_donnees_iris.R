@@ -20,7 +20,11 @@ usethis::use_git_config(
 
 # git commit --allow-empty -m "Résolution de conflit (commit vide)"
 
-
+# A mettre dans le nom du commit pour que l'issue soit fermée autmatiquement
+# quand le commit arrivera sur main
+# fix #1
+# close #2
+# closes #1 #2
 
 
 
